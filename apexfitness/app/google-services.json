@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978947361558",
+    "project_id": "apexfitness-b599b",
+    "storage_bucket": "apexfitness-b599b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978947361558:android:a718e26c87816f78e39e37",
+        "android_client_info": {
+          "package_name": "com.example.apexfitness2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATouYpLf2m7gSwh9_iwtQMSPh7ppNPYJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
